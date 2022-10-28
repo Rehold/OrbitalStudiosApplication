@@ -1,0 +1,18 @@
+This commission has no major Message placeholders, channels, or permissions to configure.
+
+Permissions:
+    How to setup: Please just copy-paste a ROLE_ID from your Discord, and paste it into "". Example: "123456789012345678"
+
+    Admin:
+        restart: Role that can restart the bot.
+        setstatus: Role that can set the bot's status.
+        sync: Developer command to sync slash commands.
+
+
+Message placeholders:
+    Note: if you ever want any extra placeholders added, just contact me.
+
+    How to use:
+        To add a placeholder to a message, use {}. Example: "Welcome to {guildName}!", "Our current membercount is {memberCount}"
+    Misc:
+        N/A
